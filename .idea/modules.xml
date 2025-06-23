@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trees-BST-Heap-Graph.iml" filepath="$PROJECT_DIR$/Trees-BST-Heap-Graph.iml" />
     </modules>
   </component>
